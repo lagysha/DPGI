@@ -3,7 +3,7 @@
 /// <summary>
 /// Головний клас програми.
 /// </summary>
-class Program
+class Hello
 {
     /// <summary>
     /// Точка входу в програму.
